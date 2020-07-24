@@ -1,4 +1,16 @@
-### Hi there 👋
+
+#### 👋 Hi there, I am Rahul. 
+ - I am currently a data science graduate student at Illinois Institute of Technology. 
+ - I am doing a research project under Prof. Shlomo Argamon in which I am working on Chicago Crime data provided by Chicago Justice Project.
+ - I have previously worked as a Machine Learning Intern at [Epic Minds IT Pvt. Ltd.](https://epicmindsit.com).
+ - I am actively looking for internship opportunities in data science.
+ - I’m also looking to collaborate on data science projects.
+ 
+#### You can contact me via:-
+- [LinkedIn](https://www.linkedin.com/in/rahul-nair-99007a9/)
+- [Gmail](rahulmnair1997@gmail.com)
+
+Please do check out my [portfolio](https://rahulmnair7.github.io/)
 
 <!--
 **rahulmnair1997/rahulmnair1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
