@@ -8,7 +8,7 @@
  
 #### You can contact me via:-
 - [LinkedIn](https://www.linkedin.com/in/rahul-nair-99007a9/)
-- [Gmail](rahulmnair1997@gmail.com)
+- [Gmail](mailto:rahulmnair1997@gmail.com)
 
 Please do check out my [portfolio](https://rahulmnair7.github.io/)
 
