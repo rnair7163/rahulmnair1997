@@ -2,7 +2,7 @@
 #### 👋 Hi there, I am Rahul. 
  - I am currently a data science graduate student at [Illinois Institute of Technology](https://www.iit.edu). 
  - I am doing a research project under [Prof. Shlomo Argamon](https://about.me/shlomoargamon) in which I am working on Chicago Crime data provided by [Chicago Justice Project](https://chicagojustice.org).
- - I have previously worked as a Machine Learning Intern at [Epic Minds IT Pvt. Ltd.](https://epicmindsit.com).
+ - I have previously worked as Machine Learning Intern at [Epic Minds IT Pvt. Ltd.](https://epicmindsit.com).
  - I am actively looking for internship opportunities in data science.
  - I’m also looking to collaborate on data science projects.
  
