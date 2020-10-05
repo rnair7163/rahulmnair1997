@@ -10,7 +10,7 @@
 - [LinkedIn](https://www.linkedin.com/in/rahul-nair-99007a9/)
 - [Gmail](mailto:rahulmnair1997@gmail.com)
 
-Please do check out my [portfolio](https://rahulmnair7.github.io/)
+Do check out my [portfolio](https://rahulmnair7.github.io/)
 
 <!--
 **rahulmnair1997/rahulmnair1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
