@@ -4,7 +4,7 @@
  - Completed a research project under [Prof. Shlomo Argamon](https://about.me/shlomoargamon) in which I worked on Chicago Crime data provided by [Chicago Justice Project](https://chicagojustice.org).
  - Previously worked as Machine Learning Intern at [Epic Minds IT Pvt. Ltd.](https://epicmindsit.com).
  - Currently doing a capstone project for [LabelMaster](https://www.labelmaster.com/) where I am developing an end-to-end sales forecasting web-app.
- - Actively looking for internship opportunities in data science especially roles such as Data Analyst, Data Engineer, Machine Learing engineer and Data Scientist.
+ - Actively looking for full-time opportunities in data science especially roles such as Data Analyst, Business Analyst, Data Engineer, Machine Learing engineer and Data Scientist.
  - Also looking forward to collaborate on data science projects.
  
 #### You can contact me via:-
