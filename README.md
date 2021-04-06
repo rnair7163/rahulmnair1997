@@ -5,7 +5,7 @@
  - Previously worked as Machine Learning Intern at [Epic Minds IT Pvt. Ltd.](https://epicmindsit.com).
  - Currently a Data Scientist at [LabelMaster](https://www.labelmaster.com/) where I am developing an end-to-end sales forecasting web-app.
  - Actively looking for full-time opportunities in data science especially roles such as Data Analyst, Business Analyst, Data Engineer, Machine Learing engineer and Data Scientist.
- - Also looking forward to collaborate on data science projects.
+ - Also looking forward to collaborate on open-source projects.
  
 #### You can contact me via:-
 - [LinkedIn](https://www.linkedin.com/in/rahul-nair-99007a9/)
