@@ -3,7 +3,7 @@
  - Data Science graduate student at [Illinois Institute of Technology](https://www.iit.edu). 
  - Completed a research project under [Prof. Shlomo Argamon](https://about.me/shlomoargamon) in which I worked on Chicago Crime data provided by [Chicago Justice Project](https://chicagojustice.org).
  - Previously worked as Machine Learning Intern at [Epic Minds IT Pvt. Ltd.](https://epicmindsit.com).
- - Currently a Data Analyst at [LabelMaster](https://www.labelmaster.com/) where I am developing an end-to-end sales forecasting web-app.
+ - Currently Data Analyst at [LabelMaster](https://www.labelmaster.com/) where I am developing an end-to-end sales forecasting web-app.
  - Actively looking for full-time opportunities in data science especially roles such as Data Analyst, Business Analyst, Data Engineer, Machine Learing engineer and Data Scientist.
  - Also looking forward to collaborate on open-source projects.
  
