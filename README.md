@@ -1,16 +1,16 @@
 
 #### 👋 Hi there, I am Rahul. 
- - I am a Data Science graduate. 
+ - Graduated with a Master's degree in Data Science from [Illinois Institute of Technology](https://www.iit.edu). 
  - Completed a research project under [Prof. Shlomo Argamon](https://about.me/shlomoargamon) in which I worked on Chicago Crime data provided by [Chicago Justice Project](https://chicagojustice.org).
  - Worked as Machine Learning Engineer at [Epic Minds IT Pvt. Ltd.](https://epicmindsit.com).
  - Worked as Data Analyst at [LabelMaster](https://www.labelmaster.com/) where I am developed an end-to-end sales forecasting web-app for two of their departments.
  - Looking forward to collaborate on open-source projects.
  
-#### You can contact me via:-
+#### 📫 You can contact me via:-
 - [LinkedIn](https://www.linkedin.com/in/rahul-nair-99007a9/)
 - [Gmail](mailto:rahulmnair1997@gmail.com)
 
-Do check out my [blogs](https://rahulmnair7.github.io/#blog)
+⚡ Please do check out my [blogs](https://rahulmnair7.github.io/#blog)
 
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulmnair1997&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
