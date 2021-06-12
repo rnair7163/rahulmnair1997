@@ -12,7 +12,7 @@
 
 Do check out my [blogs](https://rahulmnair7.github.io/#blog)
 
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulmnair1997&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulmnair1997&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
