@@ -2,7 +2,7 @@
 #### 👋 Hi there, I am Rahul. 
  - I am a Data Science graduate. 
  - Completed a research project under [Prof. Shlomo Argamon](https://about.me/shlomoargamon) in which I worked on Chicago Crime data provided by [Chicago Justice Project](https://chicagojustice.org).
- - Previously worked as Machine Learning Engineer at [Epic Minds IT Pvt. Ltd.](https://epicmindsit.com).
+ - Worked as Machine Learning Engineer at [Epic Minds IT Pvt. Ltd.](https://epicmindsit.com).
  - Worked as Data Analyst at [LabelMaster](https://www.labelmaster.com/) where I am developed an end-to-end sales forecasting web-app for two of their departments.
  - Looking forward to collaborate on open-source projects.
  
