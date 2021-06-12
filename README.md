@@ -1,11 +1,10 @@
 
 #### 👋 Hi there, I am Rahul. 
- - Data Science graduate student at [Illinois Institute of Technology](https://www.iit.edu). 
+ - I am a Data Science graduate. 
  - Completed a research project under [Prof. Shlomo Argamon](https://about.me/shlomoargamon) in which I worked on Chicago Crime data provided by [Chicago Justice Project](https://chicagojustice.org).
- - Previously worked as Machine Learning Intern at [Epic Minds IT Pvt. Ltd.](https://epicmindsit.com).
- - Currently Data Analyst at [LabelMaster](https://www.labelmaster.com/) where I am developing an end-to-end sales forecasting web-app.
- - Actively looking for full-time opportunities in data science especially roles such as Data Analyst, Business Analyst, Data Engineer, Machine Learing engineer and Data Scientist.
- - Also looking forward to collaborate on open-source projects.
+ - Previously worked as Machine Learning Engineer at [Epic Minds IT Pvt. Ltd.](https://epicmindsit.com).
+ - Worked as Data Analyst at [LabelMaster](https://www.labelmaster.com/) where I am developed an end-to-end sales forecasting web-app for two of their departments.
+ - Looking forward to collaborate on open-source projects.
  
 #### You can contact me via:-
 - [LinkedIn](https://www.linkedin.com/in/rahul-nair-99007a9/)
