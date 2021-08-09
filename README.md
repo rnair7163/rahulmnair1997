@@ -4,6 +4,7 @@
  - Completed a research project under [Prof. Shlomo Argamon](https://about.me/shlomoargamon) in which I worked on Chicago Crime data provided by [Chicago Justice Project](https://chicagojustice.org).
  - Worked as Machine Learning Engineer at [Epic Minds IT Pvt. Ltd.](https://epicmindsit.com).
  - Worked as Data Analyst at [LabelMaster](https://www.labelmaster.com/) where I am developed an end-to-end sales forecasting web-app for two of their departments.
+ - Currently working as Data Analytics Intern at [M1 Finance](https://www.m1finance.com)
  - Looking for collaborations to work on open-source projects.
  
 #### 📫 You can contact me via:-
